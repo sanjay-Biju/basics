@@ -1,0 +1,21 @@
+.conatiner{
+    width: 215px;
+    height: 330px;
+    border: 1px solid black;
+}
+.subcontainer{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputbox{
+    border-radius: 5px;
+    width: 200px;
+    height: 20px;
+}
